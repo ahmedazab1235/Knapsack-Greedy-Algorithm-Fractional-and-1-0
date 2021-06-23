@@ -7,6 +7,7 @@
 <br />
 
 ### First file make the filling produce the max value also the content of Knapsack with GUI using Tkinter
+### second file make the filling produce the max value also the content of Knapsack without GUI using Tkinter
 ### producing the result in real time :+1: :shipit:
 
 <br />
