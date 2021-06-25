@@ -3,11 +3,12 @@
 <br />
 
 ## 1- The type of Knapsack ( Fractional - I/0)  
+### you can also choose between max profit, less capacity and profit/weight  :shipit:
 
 <br />
 
 ### First file make the filling produce the max value also the content of Knapsack with GUI using Tkinter
-### second file make the filling produce the max value also the content of Knapsack without GUI using Tkinter
+### second file make the filling produce the max value also the content of Knapsack without GUI 
 ### producing the result in real time :+1: :shipit:
 
 <br />
@@ -17,7 +18,7 @@
 <br />
 
 
-![alt text](https://github.com/ahmedazab1235/Knapsack-Greedy-Algorithm-Fractional-and-1-0/blob/main/Screen%20Shot%202021-06-23%20at%209.09.43%20PM.png?raw=true)
+![alt text](https://github.com/ahmedazab1235/Knapsack-Greedy-Algorithm-Fractional-and-1-0/blob/main/Screen%20Shot%202021-06-26%20at%2012.24.58%20AM.png?raw=true)
 
 
 <br />
@@ -28,7 +29,7 @@
 <br />
 
 
-![alt text](https://github.com/ahmedazab1235/Knapsack-Greedy-Algorithm-Fractional-and-1-0/blob/main/Screen%20Shot%202021-06-23%20at%209.10.00%20PM.png?raw=true)
+![alt text](https://github.com/ahmedazab1235/Knapsack-Greedy-Algorithm-Fractional-and-1-0/blob/main/Screen%20Shot%202021-06-26%20at%2012.25.36%20AM.png?raw=true)
 
 
 <br />
